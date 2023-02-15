@@ -1,4 +1,5 @@
 ### Wordpress file path
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZagaz%2Fwordpress-file-path&count_bg=%23066C2A&title_bg=%23555555&icon=wordpress.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 `plugin_basename( __FILE__ )`
 This method extracts the name of a plugin from its filename.
